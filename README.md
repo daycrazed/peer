@@ -1,1 +1,2 @@
-# peer is a project based solution for media production and distribution based on Australian film and TV research project from 2012 to 2016
+# peer is a project based solution for media production and distribution based on an Australian film and TV research project 2012-2016.
+Peer is about again rewarding owning content for its preservation and collectability. 
